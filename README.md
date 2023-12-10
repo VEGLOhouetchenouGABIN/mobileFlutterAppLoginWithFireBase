@@ -11,6 +11,9 @@
     -   flutter pub add firebase_core
     -   flutterfire configure
 
+### ILLUSTRATION
+!['THIS IS JUST ILLUSTRATION'](img1.png)
+
 ## After that you can config firebase in you main.dart file
 
 
